@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @JoeLiPunk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+*Phase 1 *
+LAUNCHING
+LISTING 10 NFT
+FLOOR PRICE 0.0015 ETH
+(#001 - #010)
 
-<!---
-JoeLiPunk/JoeLiPunk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PHASE 2
+LISTING 10 NFT
+FLOOR PRICE 0.002 NFT
+(#0011 - #020)
+PUBLIC GIVEAWAY
+
+PHASE 3
+LISTING 20 NFT 
+FLOOR PRICE 0.003 ETH 
+(#020 - #050)
+COLLABORATION WITH ANOTHER CREATOR 
+
+PHASE 4
+LISTING 25 NFT 
+FLOOR PRICE 0.005 ETH
+(#051 - #075)
+SPECIAL GIVEAWAY FOR HOLDERS 
+
+PHASE 5
+LISTING 25 NFT 
+FLOOR PRICE 0.01 ETH
+(#076 - #100)
+CREATE WEBSITE
